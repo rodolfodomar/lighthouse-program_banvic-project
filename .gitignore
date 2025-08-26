@@ -1,0 +1,12 @@
+# Arquivo .gitignore para o projeto BanVic
+
+# 1. SEGREDOS E CREDENCIAIS
+# ------------------------------------
+gcloud-service-account.json
+.env
+
+# 2. ARQUIVOS DIVERSOS
+# ------------------------------------
+banvic_data.zip
+[LH2025-11] Desafio de Engenharia de Analytics_Análise de Dados .pdf
+.venv

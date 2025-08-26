@@ -1,0 +1,18 @@
+# Data Manipulation
+pandas
+
+# Google Cloud Platform
+google-cloud-bigquery
+google-cloud-storage
+db-dtypes
+
+# Notebook Environment
+jupyter
+notebook
+
+# Visualization
+matplotlib
+seaborn
+
+# Environment Variables (good practice for credentials)
+python-dotenv
