@@ -17,4 +17,5 @@ seaborn
 
 # Environment Variables (good practice for credentials)
 python-dotenv
-duckdb duckdb-engine
+duckdb
+duckdb-engine
