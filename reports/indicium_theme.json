@@ -1,0 +1,128 @@
+{
+  "name": "Indicium - Tema Final",
+  "dataColors": [
+    "#004F75",
+    "#00A950",
+    "#00B29E",
+    "#666666",
+    "#D9D9D9",
+    "#A6A6A6"
+  ],
+  "background": "#FFFFFF",
+  "foreground": "#333333",
+  "tableAccent": "#00A950",
+  "visualStyles": {
+    "*": {
+      "*": {
+        "visualHeader": [
+          {
+            "display": "off"
+          }
+        ]
+      }
+    },
+    "card": {
+      "*": {
+        "card": [
+          {
+            "background": {
+              "solid": {
+                "color": "#FFFFFF"
+              }
+            },
+            "border": "off"
+          }
+        ],
+        "title": [
+          {
+            "font": {
+              "fontFamily": "Segoe UI SemiBold",
+              "fontSize": 12
+            },
+            "color": {
+              "solid": {
+                "color": "#004F75"
+              }
+            },
+            "wordWrap": "off"
+          }
+        ],
+        "labels": [
+          {
+            "font": {
+              "fontFamily": "Segoe UI Light"
+            },
+            "color": {
+              "solid": {
+                "color": "#333333"
+              }
+            }
+          }
+        ]
+      }
+    },
+    "tableEx": {
+      "*": {
+        "table": [
+          {
+            "gridStyle": "vertical",
+            "gridVertical": {
+              "color": {
+                "solid": {
+                  "color": "#CCCCCC"
+                }
+              }
+            },
+            "border": "off"
+          }
+        ],
+        "columnHeaders": [
+          {
+            "font": {
+              "fontFamily": "Segoe UI SemiBold",
+              "fontSize": 10
+            },
+            "color": {
+              "solid": {
+                "color": "#333333"
+              }
+            },
+            "background": {
+              "solid": {
+                "color": "#F0F0F0"
+              }
+            },
+            "border": "off"
+          }
+        ],
+        "rows": [
+          {
+            "font": {
+              "fontFamily": "Segoe UI Light",
+              "fontSize": 10
+            },
+            "color": {
+              "solid": {
+                "color": "#333333"
+              }
+            }
+          }
+        ]
+      }
+    },
+    "textCard": {
+      "*": {
+        "labels": [
+          {
+            "fontFamily": "Segoe UI Light"
+          }
+        ],
+        "title": [
+          {
+            "fontFamily": "Segoe UI SemiBold"
+          }
+        ]
+      }
+    }
+  }
+}
